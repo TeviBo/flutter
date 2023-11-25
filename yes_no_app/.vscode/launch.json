@@ -7,7 +7,8 @@
         {
             "name": "yes_no_app",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "flutterMode": "debug"
         },
         {
             "name": "yes_no_app (profile mode)",
